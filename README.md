@@ -2,6 +2,8 @@
 
 # The Void Linux live image/rootfs generator and installer
 
+- Fast: ./builder.sh
+
 ## Overview
 
 This repository contains several utilities:
